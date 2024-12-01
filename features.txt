@@ -1,0 +1,52 @@
+What is (?)
+Who is (?)
+Open Google
+Search Google
+Open YouTube
+Close Chrome
+Open Paint
+Close Paint
+Open Notepad
+Close Notepad
+Open cmd
+Close cmd
+Launch Devesh Folder
+Music
+Tell me the time
+Shutdown laptop
+lock laptop
+take screenshot
+my ip adress
+volume plus
+volume down
+mute
+unmute
+type
+youtube Search
+Open Code With Harry
+Open web store
+tell me internet downloading speed
+tell me internet uploading speed
+tell me the internet speed
+chrome automation
+Open any app
+pause video or audio
+restart
+skip
+back
+full screen
+film mode
+resume
+youtube automation
+close the tab
+open new tab
+open new window
+history
+chrome automation
+start web clock
+alarm
+remember that
+what do you remember
+google scrap search
+temperature
+how to
